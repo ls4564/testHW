@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#272727"
     tools:context=".MainActivity">
 
     <ImageView
@@ -45,6 +46,7 @@
         android:layout_height="13dp"
         android:layout_marginTop="4dp"
         android:text="TextView"
+        android:textColor="#E4E4E4"
         app:layout_constraintEnd_toEndOf="@+id/imageView4"
         app:layout_constraintStart_toStartOf="@+id/imageView4"
         app:layout_constraintTop_toBottomOf="@+id/imageView4" />
@@ -85,6 +87,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:text="TextView"
+        android:textColor="#E4E4E4"
         app:layout_constraintEnd_toEndOf="@+id/imageView5"
         app:layout_constraintStart_toStartOf="@+id/imageView5"
         app:layout_constraintTop_toBottomOf="@+id/imageView5" />
@@ -95,6 +98,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="4dp"
         android:text="TextView"
+        android:textColor="#E4E4E4"
         app:layout_constraintEnd_toEndOf="@+id/imageView6"
         app:layout_constraintStart_toStartOf="@+id/imageView6"
         app:layout_constraintTop_toBottomOf="@+id/imageView6" />
@@ -104,6 +108,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="TextView"
+        android:textColor="#E4E4E4"
         app:layout_constraintEnd_toEndOf="@+id/imageView7"
         app:layout_constraintStart_toStartOf="@+id/imageView7"
         app:layout_constraintTop_toBottomOf="@+id/imageView7" />
@@ -124,6 +129,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:text="sharon"
+        android:textColor="#E4E4E4"
         app:layout_constraintStart_toStartOf="@+id/guideline"
         app:layout_constraintTop_toBottomOf="@+id/divider" />
 
@@ -133,6 +139,7 @@
         android:layout_height="44dp"
         android:layout_marginTop="16dp"
         android:text="sddhvdjgavfgavkhdbvshbd jbaydbsajdhyuashbbdjahvdyahhdabvydgai"
+        android:textColor="#E4E4E4"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
         app:layout_constraintStart_toStartOf="@+id/textView7"
         app:layout_constraintTop_toBottomOf="@+id/textView7" />
@@ -166,6 +173,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="star"
+        android:textColor="#E4E4E4"
         app:layout_constraintEnd_toEndOf="@+id/imageView"
         app:layout_constraintStart_toStartOf="@+id/imageView"
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
@@ -184,6 +192,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:text="Back to the Future"
+        android:textColor="#E4E4E4"
         app:layout_constraintStart_toEndOf="@+id/imageView3"
         app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
@@ -193,6 +202,7 @@
         android:layout_height="15dp"
         android:layout_marginTop="16dp"
         android:text="The number One"
+        android:textColor="#E4E4E4"
         app:layout_constraintStart_toStartOf="@+id/textView"
         app:layout_constraintTop_toBottomOf="@+id/textView" />
 
