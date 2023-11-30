@@ -33,7 +33,7 @@
         android:layout_width="61dp"
         android:layout_height="40dp"
         android:layout_marginTop="16dp"
-        android:src="@drawable/__2023_11_08_190920"
+        android:src="@drawable/bttf"
         app:layout_constraintEnd_toStartOf="@+id/imageView5"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintHorizontal_chainStyle="spread"
